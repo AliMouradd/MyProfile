@@ -1,5 +1,14 @@
 ## Who is Ali Mourad?
 
+Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.                              ![Image](https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG)
+
+I am currently, as of September 3, 2021, a Computer Science student as California State University, Long Beach.
+
+Here are some of languages I know:                                 Here are some other skills I have:   
+             - Python
+             - Java
+             - C++
+             - C#
 You can use the [editor on GitHub](https://github.com/AliMouradd/406WebPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG)
+[Link](url) and 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
