@@ -6,13 +6,13 @@ Well I am Ali Mourad! My photo should be here somewhere, probably to the right o
 
 I am currently, as of September 3, 2021, a Computer Science student as California State University, Long Beach.
 
-Here are some of languages I know:                    Here are some of my interests and stuff im learning:                   
-<ul>                                                  <ul>
-  <li>Python<li>                                        <li>Cloud Computing<li>
-  <li>Java<li>                                          <li>Block Chain<li>
-  <li>C++<li>                                           <li>Databases<li>
-  <li>C#<li>                                            <li>Video Game Development<li>
-<ul>                                                  <ul>
+Here are some of languages I know:               
+<ul>
+  <li>Python<li>
+  <li>Java<li>
+  <li>C++<li>
+  <li>C#<li>
+<ul>
 You can use the [editor on GitHub](https://github.com/AliMouradd/406WebPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
