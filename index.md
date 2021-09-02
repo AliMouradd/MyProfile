@@ -8,10 +8,10 @@ I am currently, as of September 3, 2021, a Computer Science student as Californi
 
 Here are some of languages I know:               
 <ul>
-  <li>Python<li>
-  <li>Java<li>
-  <li>C++<li>
-  <li>C#<li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>C++</li>
+  <li>C#</li>
 </ul>
 You can use the [editor on GitHub](https://github.com/AliMouradd/406WebPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
