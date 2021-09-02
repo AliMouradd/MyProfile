@@ -1,6 +1,6 @@
 ## Who is Ali Mourad?
 ### Markdown
-Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.
+Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.<br />
 ![Image](https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG)
 
 I am currently, as of September 3, 2021, a Computer Science student as California State University, Long Beach.
