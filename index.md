@@ -13,10 +13,10 @@ Here are some of languages I know:
   <li>C++</li>
   <li>C#</li>
 </ul>
-<p> If you want to learn about me and my skills, heres my links! 
-  <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">
-    Resume</a></p>
-    
+If you want to learn about me and my skills, heres my links!
+  
+ <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">Resume</a>
+ 
  [LinknedIn](https://www.linkedin.com/in/ali-mourad/)
  
  [GitHub](https://github.com/AliMouradd)
