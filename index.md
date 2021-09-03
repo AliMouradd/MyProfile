@@ -13,7 +13,7 @@ Here are some of languages I know:
   <li>C++</li>
   <li>C#</li>
 </ul>
-If you want to learn about me and my skills, heres my links!
+If you want to learn more about me and my skills, heres my links!
   
  <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">Resume</a>
  
@@ -23,11 +23,6 @@ If you want to learn about me and my skills, heres my links!
 
 
 
-### Current Research
-
-# Header 1
-## Header 2
-### Header 3
-
-**Bold** and _Italic_ and `Code` text
+## Current Research
+**Elastic Search**
 
