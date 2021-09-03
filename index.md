@@ -1,4 +1,4 @@
-### Who is Ali Mourad?
+## Who is Ali Mourad?
 
 Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.<br />
 <img src="https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG" height="470" width="320" class="right">
