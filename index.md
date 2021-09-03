@@ -13,8 +13,8 @@ Here are some of languages I know:
   <li>C++</li>
   <li>C#</li>
 </ul>
-You can use the [editor on GitHub](https://github.com/AliMouradd/406WebPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+<p> If you want to learn about me, heres my <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">resume</a>!</p>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
