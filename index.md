@@ -1,5 +1,5 @@
-## Who is Ali Mourad?
-### Markdown
+### Who is Ali Mourad?
+
 Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.<br />
 <img src="https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG" height="470" width="320" class="right">
 
@@ -13,11 +13,10 @@ Here are some of languages I know:
   <li>C++</li>
   <li>C#</li>
 </ul>
+<p> If you want to learn about me and my skills, heres my <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">resume</a>!</p>
 
-<p> If you want to learn about me, heres my <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">resume</a>!</p>
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Current Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
