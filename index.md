@@ -16,8 +16,8 @@ Here are some of languages I know:
 </ul>
 If you want to learn more about me and my skills, heres my links!
  <p> <a href="https://github.com/AliMouradd/MyProfile/files/7102512/Ali_resume2.pdf">Resume</a> </p>
- <p> [LinknedIn](https://www.linkedin.com/in/ali-mourad/) </p>
- <p> [GitHub](https://github.com/AliMouradd) </p>
+ [LinknedIn](https://www.linkedin.com/in/ali-mourad/)
+ [GitHub](https://github.com/AliMouradd)
 
 
 
