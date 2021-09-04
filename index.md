@@ -4,7 +4,7 @@ Well I am Ali Mourad! My photo should be here somewhere, probably to the right o
 <img src="https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG" height="370" width="252" class="right">
 
 
-I am currently, as of September 3, 2021, a Computer Science student as California State University, Long Beach.
+I am currently a Computer Science student as California State University, Long Beach.
 
 Here are some of languages I know:               
 <ul>
