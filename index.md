@@ -29,6 +29,6 @@ to peer consensus.
 **Usefulness and Proposal**   <br>
 Blockchains are a powerful tool with huge potential. With a blockchain we can use it to track events on a supply chain.
 This allows for full trusted transparency at all levels of an enterprise. Consumers as well will be able to track where
-there products are within the supply chain. Pair this up with elastic search and a well thought out machine learning algorithm
+their products are within the supply chain. Pair this up with elastic search and a well thought out machine learning algorithm
 and you have a system which will be able to notify users when a product will need to be replaced in the future with minimal
 search time.
