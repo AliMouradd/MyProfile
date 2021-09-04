@@ -1,5 +1,5 @@
 ## Who is Ali Mourad?
-<img src="https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG" height="300" width="204" class="right">
+<img src="https://user-images.githubusercontent.com/47038179/131779086-994a39e5-aaab-4be4-944d-32e149be6e28.PNG" height="340" width="231" class="right">
 
 Well I am Ali Mourad! My photo should be here somewhere, probably to the right of this text.   <br>
 I am currently a Computer Science student as California State University, Long Beach.   <br>
